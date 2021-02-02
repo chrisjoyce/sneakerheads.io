@@ -1,6 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 
-import { Message } from '@sneakerheads.ioo/api-interfaces';
+import { Message } from '@sneakerheads.io/api-interfaces';
 
 import { AppService } from './app.service';
 

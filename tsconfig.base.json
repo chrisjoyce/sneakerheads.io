@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@sneakerheads.ioo/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@sneakerheads.io/api-interfaces": ["libs/api-interfaces/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

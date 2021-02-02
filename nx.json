@@ -1,5 +1,5 @@
 {
-  "npmScope": "sneakerheads.ioo",
+  "npmScope": "sneakerheads.io",
   "affected": { "defaultBase": "master" },
   "implicitDependencies": {
     "angular.json": "*",

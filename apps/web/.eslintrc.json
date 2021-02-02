@@ -14,7 +14,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "sneakerheads.ioo",
+            "prefix": "sneakerheads.io",
             "style": "camelCase"
           }
         ],
@@ -22,7 +22,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "sneakerheads.ioo",
+            "prefix": "sneakerheads.io",
             "style": "kebab-case"
           }
         ]
