@@ -19,6 +19,8 @@
     "web": { "tags": [] },
     "web-e2e": { "tags": [], "implicitDependencies": ["web"] },
     "api": { "tags": [] },
-    "api-interfaces": { "tags": [] }
+    "api-interfaces": { "tags": [] },
+    "scraper": { "tags": [] },
+    "shared": { "tags": [] }
   }
 }
